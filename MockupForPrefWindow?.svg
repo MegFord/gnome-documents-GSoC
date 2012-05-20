@@ -126,6 +126,10 @@
          offset="1"
          style="stop-color:#f7f7f7;stop-opacity:1" />
     </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect57728-9-9-0"
+       is_visible="true" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -141,10 +145,10 @@
      id="namedview4"
      showgrid="true"
      inkscape:snap-nodes="false"
-     inkscape:snap-global="false"
-     inkscape:zoom="0.86267028"
-     inkscape:cx="643.43141"
-     inkscape:cy="312.66437"
+     inkscape:snap-global="true"
+     inkscape:zoom="4.88"
+     inkscape:cx="470.66345"
+     inkscape:cy="571.58141"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1"
@@ -165,10 +169,10 @@
      id="rect4588"
      width="600.81976"
      height="404.50821"
-     x="336.06558"
-     y="128.68851" />
+     x="333.42371"
+     y="123.4828" />
   <g
-     transform="translate(63.792444,-225.02356)"
+     transform="matrix(2.473367,0,0,0.99873007,-641.33805,-222.49573)"
      id="g57702">
     <rect
        style="opacity:0.17283953;color:#000000;fill:none;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
@@ -198,17 +202,6 @@
        width="167"
        id="rect57708"
        style="color:#000000;fill:url(#linearGradient57720-1);fill-opacity:1;fill-rule:nonzero;stroke:#729fcf;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text57710"
-       y="404"
-       x="440.78748"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       xml:space="preserve"><tspan
-         y="404"
-         x="440.78748"
-         id="tspan57712"
-         sodipodi:role="line">Focused Entry</tspan></text>
     <path
        sodipodi:type="inkscape:offset"
        inkscape:radius="-0.875"
@@ -217,13 +210,6 @@
        id="path57724"
        d="m 437.3125,384.375 c -1.63538,0 -2.9375,1.30212 -2.9375,2.9375 l 0,22.375 c 0,1.63538 1.30212,2.9375 2.9375,2.9375 l 148.375,0 c 1.63538,0 2.9375,-1.30212 2.9375,-2.9375 l 0,-22.375 c 0,-1.63538 -1.30212,-2.9375 -2.9375,-2.9375 l -148.375,0 z"
        transform="matrix(1.0705128,0,0,1,-30.567308,0)" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 531.5,387.99999 0,21"
-       id="path57726"
-       inkscape:path-effect="#path-effect57728-9-9"
-       inkscape:original-d="m 531.5,387.99999 0,21"
-       inkscape:connector-curvature="0" />
   </g>
   <g
      id="g60222"
@@ -386,71 +372,90 @@
   <text
      xml:space="preserve"
      style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-     x="439.04379"
-     y="177.51419"
+     x="369.48199"
+     y="179.86"
      id="text3037"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan3039"
-       x="439.04379"
-       y="177.51419">Title:</tspan></text>
+       x="369.48199"
+       y="179.86">Title:</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-     x="426.87225"
-     y="207.07356"
+     x="369.57999"
+     y="220"
      id="text3041"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan3043"
-       x="426.87225"
-       y="207.07356">Author:</tspan></text>
+       x="369.57999"
+       y="220">Author:</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-     x="420.4967"
-     y="286.47818"
+     x="368.48801"
+     y="300"
      id="text3045"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan3047"
-       x="420.4967"
-       y="286.47818">Collections:</tspan></text>
+       x="368.48801"
+       y="300">Collections:</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-     x="430.06006"
-     y="320.38452"
+     x="369.16"
+     y="340"
      id="text3049"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
-       x="430.06006"
-       y="320.38452"
+       x="369.16"
+       y="340"
        id="tspan3053">Sharing:</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-     x="418.17825"
-     y="376.02576"
+     x="367.95081"
+     y="380"
      id="text3057"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan3059"
-       x="418.17825"
-       y="376.02576">Description:</tspan></text>
+       x="367.95081"
+       y="380">Description:</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-     x="430.34979"
-     y="233.1554"
+     x="369.16"
+     y="242.45901"
      id="text3061"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan3063"
-       x="430.34979"
-       y="233.1554"></tspan><tspan
+       x="369.16"
+       y="242.45901"></tspan><tspan
        sodipodi:role="line"
        id="tspan3065"
-       x="430.34979"
-       y="250.6554">Source:</tspan></text>
+       x="369.16"
+       y="259.95901">Source:</tspan></text>
+  <text
+     transform="scale(1.0054757,0.99455412)"
+     sodipodi:linespacing="125%"
+     id="text57710"
+     y="180.98563"
+     x="447.54935"
+     style="font-size:14.07666016px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+     xml:space="preserve"><tspan
+       y="180.98563"
+       x="447.54935"
+       id="tspan57712"
+       sodipodi:role="line">Focused Entry</tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.00547576px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 543.03278,165.72951 0,21"
+     id="path57726"
+     inkscape:path-effect="#path-effect57728-9-9-0"
+     inkscape:original-d="m 543.03278,165.72951 0,21"
+     inkscape:connector-curvature="0" />
 </svg>
