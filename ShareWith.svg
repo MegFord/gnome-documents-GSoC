@@ -270,8 +270,8 @@
      id="namedview4"
      showgrid="true"
      inkscape:zoom="3.450681"
-     inkscape:cx="549.96068"
-     inkscape:cy="661.18033"
+     inkscape:cx="563.05658"
+     inkscape:cy="669.29114"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1"
@@ -289,7 +289,7 @@
      x="0"
      y="0" />
   <g
-     transform="translate(120.56331,-152.3125)"
+     transform="translate(223.5,-152.99999)"
      id="g57702">
     <rect
        style="opacity:0.17283953;color:#000000;fill:none;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
@@ -329,7 +329,7 @@
          y="404"
          x="440.78748"
          id="tspan57712"
-         sodipodi:role="line">Angela Morris</tspan></text>
+         sodipodi:role="line">Angela </tspan></text>
     <path
        sodipodi:type="inkscape:offset"
        inkscape:radius="-0.875"
@@ -349,16 +349,16 @@
   <text
      xml:space="preserve"
      style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-     x="525"
-     y="220"
+     x="525.05768"
+     y="220.07738"
      id="text3028"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan3030"
-       x="525"
-       y="220">Add people or groups to share with</tspan></text>
+       x="525.05768"
+       y="220.07738">Add people or groups to share with</tspan></text>
   <g
-     transform="translate(-53.659187,-1105.5)"
+     transform="translate(-53.659188,-1104.3567)"
      id="g14586">
     <rect
        inkscape:export-ydpi="90"
@@ -427,7 +427,7 @@
     </g>
   </g>
   <g
-     transform="translate(-113.52525,-1054.8838)"
+     transform="translate(-114.39464,-1054.0144)"
      id="g14596">
     <rect
        ry="7.0000005"
@@ -468,25 +468,25 @@
   <text
      xml:space="preserve"
      style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-     x="523.37494"
-     y="180.12239"
+     x="524.24432"
+     y="179.83258"
      id="text3138"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan3140"
-       x="523.37494"
-       y="180.12239">Send via email</tspan></text>
+       x="524.24432"
+       y="179.83258">Send via email</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-     x="524.53418"
-     y="129.69756"
+     x="524.24438"
+     y="130.27715"
      id="text3142"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan3144"
-       x="524.53418"
-       y="129.69756">Send as link</tspan></text>
+       x="524.24438"
+       y="130.27715">Send as link</tspan></text>
   <rect
      style="fill:#ededed;fill-opacity:1;stroke:none"
      id="rect3146"
