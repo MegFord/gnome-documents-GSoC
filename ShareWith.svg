@@ -270,8 +270,8 @@
      id="namedview4"
      showgrid="true"
      inkscape:zoom="3.450681"
-     inkscape:cx="563.05658"
-     inkscape:cy="669.29114"
+     inkscape:cx="612.54869"
+     inkscape:cy="599.73965"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1"
@@ -289,7 +289,7 @@
      x="0"
      y="0" />
   <g
-     transform="translate(223.5,-152.99999)"
+     transform="translate(141.77699,-148.94282)"
      id="g57702">
     <rect
        style="opacity:0.17283953;color:#000000;fill:none;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
@@ -349,14 +349,14 @@
   <text
      xml:space="preserve"
      style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-     x="525.05768"
-     y="220.07738"
+     x="474.63284"
+     y="249.92654"
      id="text3028"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan3030"
-       x="525.05768"
-       y="220.07738">Add people or groups to share with</tspan></text>
+       x="474.63284"
+       y="249.92654">Add contacts:</tspan></text>
   <g
      transform="translate(-53.659188,-1104.3567)"
      id="g14586">
