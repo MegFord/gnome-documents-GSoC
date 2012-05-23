@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -255,6 +255,75 @@
          offset="1"
          id="stop10336-29-3-4-9-0-0" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient85841-76-2-1-4-3"
+       id="linearGradient3103"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.45584257,0,0,0.65413604,484.60637,461.5825)"
+       x1="808"
+       y1="1040.354"
+       x2="808"
+       y2="1106.5294" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10354-2-9-1-0-6-0"
+       id="linearGradient3105"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1609.9926,-78.958432)"
+       x1="1205.5752"
+       y1="-186.45331"
+       x2="1205.5752"
+       y2="-202.34555" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10332-5-3-3-7-9-7"
+       id="linearGradient3107"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.84941206,0,0,0.84794288,-623.98415,-483.16392)"
+       x1="260.92538"
+       y1="233.77748"
+       x2="260.92538"
+       y2="248.97633" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient85841-76-2-1-4-9"
+       id="linearGradient3109"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.45584257,0,0,0.65413604,484.60637,461.5825)"
+       x1="808"
+       y1="1040.354"
+       x2="808"
+       y2="1106.5294" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10354-2-9-1-0-6"
+       id="linearGradient3111"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1609.9926,-78.958432)"
+       x1="1205.5752"
+       y1="-186.45331"
+       x2="1205.5752"
+       y2="-202.34555" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10332-5-3-3-7-9"
+       id="linearGradient3113"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.84941206,0,0,0.84794288,-623.98415,-483.16392)"
+       x1="260.92538"
+       y1="233.77748"
+       x2="260.92538"
+       y2="248.97633" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5872-5-1"
+       id="linearGradient3115"
+       gradientUnits="userSpaceOnUse"
+       x1="205.84143"
+       y1="246.7094"
+       x2="206.74803"
+       y2="231.24142" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -265,16 +334,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="742"
+     inkscape:window-width="508"
+     inkscape:window-height="476"
      id="namedview4"
      showgrid="true"
-     inkscape:zoom="3.450681"
-     inkscape:cx="612.54869"
-     inkscape:cy="599.73965"
-     inkscape:window-x="0"
-     inkscape:window-y="26"
-     inkscape:window-maximized="1"
+     inkscape:zoom="4.8799999"
+     inkscape:cx="523.60679"
+     inkscape:cy="599.24867"
+     inkscape:window-x="81"
+     inkscape:window-y="98"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg2"
      inkscape:snap-global="false">
     <inkscape:grid
@@ -289,204 +358,215 @@
      x="0"
      y="0" />
   <g
-     transform="translate(141.77699,-148.94282)"
-     id="g57702">
-    <rect
-       style="opacity:0.17283953;color:#000000;fill:none;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       id="rect57704"
-       width="156.00003"
-       height="27"
-       x="433.49997"
-       y="387.5"
-       rx="5.5539241"
-       ry="5.5539246" />
-    <path
-       transform="matrix(1.0705128,0,0,1,-30.567308,1)"
-       d="m 437.3125,383.5 c -2.10737,0 -3.8125,1.70513 -3.8125,3.8125 l 0,22.375 c 0,2.10737 1.70513,3.8125 3.8125,3.8125 l 148.375,0 c 2.10737,0 3.8125,-1.70513 3.8125,-3.8125 l 0,-22.375 c 0,-2.10737 -1.70513,-3.8125 -3.8125,-3.8125 l -148.375,0 z"
-       inkscape:href="#rect54898"
-       id="path57706"
-       style="color:#000000;fill:url(#linearGradient57718-4);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.96650487;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       xlink:href="#rect54898"
-       inkscape:original="M 437.3125 383.5 C 435.20513 383.5 433.5 385.20513 433.5 387.3125 L 433.5 409.6875 C 433.5 411.79487 435.20513 413.5 437.3125 413.5 L 585.6875 413.5 C 587.79487 413.5 589.5 411.79487 589.5 409.6875 L 589.5 387.3125 C 589.5 385.20513 587.79487 383.5 585.6875 383.5 L 437.3125 383.5 z "
-       inkscape:radius="0"
-       sodipodi:type="inkscape:offset" />
-    <rect
-       ry="3.8039246"
-       rx="3.8039246"
-       y="383.5"
-       x="433.5"
-       height="30"
-       width="167"
-       id="rect57708"
-       style="color:#000000;fill:url(#linearGradient57720-1);fill-opacity:1;fill-rule:nonzero;stroke:#729fcf;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+     id="g3091">
+    <g
+       id="g57702"
+       transform="translate(141.77699,-148.94282)">
+      <rect
+         ry="5.5539246"
+         rx="5.5539241"
+         y="387.5"
+         x="433.49997"
+         height="27"
+         width="156.00003"
+         id="rect57704"
+         style="opacity:0.17283953;color:#000000;fill:none;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+      <path
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="0"
+         inkscape:original="M 437.3125 383.5 C 435.20513 383.5 433.5 385.20513 433.5 387.3125 L 433.5 409.6875 C 433.5 411.79487 435.20513 413.5 437.3125 413.5 L 585.6875 413.5 C 587.79487 413.5 589.5 411.79487 589.5 409.6875 L 589.5 387.3125 C 589.5 385.20513 587.79487 383.5 585.6875 383.5 L 437.3125 383.5 z "
+         xlink:href="#rect54898"
+         style="color:#000000;fill:url(#linearGradient57718-4);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.96650487;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         id="path57706"
+         inkscape:href="#rect54898"
+         d="m 437.3125,383.5 c -2.10737,0 -3.8125,1.70513 -3.8125,3.8125 l 0,22.375 c 0,2.10737 1.70513,3.8125 3.8125,3.8125 l 148.375,0 c 2.10737,0 3.8125,-1.70513 3.8125,-3.8125 l 0,-22.375 c 0,-2.10737 -1.70513,-3.8125 -3.8125,-3.8125 l -148.375,0 z"
+         transform="matrix(1.0705128,0,0,1,-30.567308,1)" />
+      <rect
+         style="color:#000000;fill:url(#linearGradient57720-1);fill-opacity:1;fill-rule:nonzero;stroke:#729fcf;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         id="rect57708"
+         width="167"
+         height="30"
+         x="433.5"
+         y="383.5"
+         rx="3.8039246"
+         ry="3.8039246" />
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         x="440.78748"
+         y="404"
+         id="text57710"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan57712"
+           x="440.78748"
+           y="404">Angela </tspan></text>
+      <path
+         transform="matrix(1.0705128,0,0,1,-30.567308,0)"
+         d="m 437.3125,384.375 c -1.63538,0 -2.9375,1.30212 -2.9375,2.9375 l 0,22.375 c 0,1.63538 1.30212,2.9375 2.9375,2.9375 l 148.375,0 c 1.63538,0 2.9375,-1.30212 2.9375,-2.9375 l 0,-22.375 c 0,-1.63538 -1.30212,-2.9375 -2.9375,-2.9375 l -148.375,0 z"
+         id="path57724"
+         style="opacity:0.39506172;color:#000000;fill:none;stroke:#729fcf;stroke-width:0.96650487;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         inkscape:original="M 437.3125 383.5 C 435.20513 383.5 433.5 385.20513 433.5 387.3125 L 433.5 409.6875 C 433.5 411.79487 435.20513 413.5 437.3125 413.5 L 585.6875 413.5 C 587.79487 413.5 589.5 411.79487 589.5 409.6875 L 589.5 387.3125 C 589.5 385.20513 587.79487 383.5 585.6875 383.5 L 437.3125 383.5 z "
+         inkscape:radius="-0.875"
+         sodipodi:type="inkscape:offset" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 531.5,387.99999 0,21"
+         inkscape:path-effect="#path-effect57728-9-9"
+         id="path57726"
+         d="m 531.5,387.99999 0,21"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
     <text
        sodipodi:linespacing="125%"
-       id="text57710"
-       y="404"
-       x="440.78748"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       xml:space="preserve"><tspan
-         y="404"
-         x="440.78748"
-         id="tspan57712"
-         sodipodi:role="line">Angela </tspan></text>
-    <path
-       sodipodi:type="inkscape:offset"
-       inkscape:radius="-0.875"
-       inkscape:original="M 437.3125 383.5 C 435.20513 383.5 433.5 385.20513 433.5 387.3125 L 433.5 409.6875 C 433.5 411.79487 435.20513 413.5 437.3125 413.5 L 585.6875 413.5 C 587.79487 413.5 589.5 411.79487 589.5 409.6875 L 589.5 387.3125 C 589.5 385.20513 587.79487 383.5 585.6875 383.5 L 437.3125 383.5 z "
-       style="opacity:0.39506172;color:#000000;fill:none;stroke:#729fcf;stroke-width:0.96650487;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       id="path57724"
-       d="m 437.3125,384.375 c -1.63538,0 -2.9375,1.30212 -2.9375,2.9375 l 0,22.375 c 0,1.63538 1.30212,2.9375 2.9375,2.9375 l 148.375,0 c 1.63538,0 2.9375,-1.30212 2.9375,-2.9375 l 0,-22.375 c 0,-1.63538 -1.30212,-2.9375 -2.9375,-2.9375 l -148.375,0 z"
-       transform="matrix(1.0705128,0,0,1,-30.567308,0)" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 531.5,387.99999 0,21"
-       id="path57726"
-       inkscape:path-effect="#path-effect57728-9-9"
-       inkscape:original-d="m 531.5,387.99999 0,21"
-       inkscape:connector-curvature="0" />
-  </g>
-  <text
-     xml:space="preserve"
-     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-     x="474.63284"
-     y="249.92654"
-     id="text3028"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan3030"
+       id="text3028"
+       y="249.92654"
        x="474.63284"
-       y="249.92654">Add contacts:</tspan></text>
-  <g
-     transform="translate(-53.659188,-1104.3567)"
-     id="g14586">
-    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/jimmac/SparkleShare/gnome-mockups/boxes/interactive/img/checkbox-on.png"
-       y="1210"
-       x="529"
-       height="39"
-       width="39"
-       id="rect85718-2-9"
-       style="opacity:0.63999999;color:#000000;fill:url(#linearGradient14005-5);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       rx="7.0000005"
-       ry="7.0000005" />
-    <g
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/jimmac/SparkleShare/gnome-mockups/boxes/interactive/img/checkbox-on.png"
-       transform="matrix(1.9969286,0,0,1.9969286,-397.05491,877.00482)"
-       id="g15291-9"
-       style="display:inline;enable-background:new">
-      <g
-         transform="translate(877.50354,-102.83507)"
-         id="g16853-4"
-         style="enable-background:new">
-        <rect
-           transform="scale(1,-1)"
-           style="color:#000000;fill:url(#linearGradient15341-5-4-1);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient15343-1-0-1);stroke-width:0.50076902;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect6506-6"
-           width="11.042357"
-           height="11.023263"
-           x="-409.50739"
-           y="-284.86218"
-           rx="0.80653393"
-           ry="0.80653393" />
-      </g>
-    </g>
-    <g
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/jimmac/SparkleShare/gnome-mockups/boxes/interactive/img/checkbox-on.png"
-       transform="translate(343.99999,987.99997)"
-       id="g5886"
-       style="display:inline;enable-background:new">
-      <path
-         style="fill:none;stroke:url(#linearGradient5891-0-4);stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 198.5,240 5.25,5.25 13.875,-13.875"
-         id="path5835"
-         inkscape:path-effect="#path-effect5837-4-6"
-         inkscape:original-d="m 198.5,240 5.25,5.25 13.875,-13.875"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         inkscape:original-d="m 198.5,240 5.25,5.25 13.875,-13.875"
-         inkscape:path-effect="#path-effect5837-4-6"
-         id="path5880"
-         d="m 198.5,240 5.25,5.25 13.875,-13.875"
-         style="fill:none;stroke:#4787c8;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         style="fill:none;stroke:#7ea7d3;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 197.71875,240.4375 c -0.113,-0.1009 -0.19813,-0.23267 -0.24374,-0.37713 -0.0456,-0.14446 -0.0515,-0.30115 -0.0175,-0.44876 0.034,-0.14762 0.10786,-0.28567 0.21068,-0.39693 0.10281,-0.11125 0.23413,-0.19547 0.37723,-0.24518 0.1431,-0.0497 0.29748,-0.065 0.44812,-0.0491 0.15065,0.0159 0.29731,0.0628 0.43264,0.13085 0.27066,0.13614 0.48894,0.35524 0.69883,0.57373 l 3.8125,3.96875 13.25,-12.65625 c 0.14959,-0.14288 0.30236,-0.28546 0.48132,-0.38923 0.17895,-0.10377 0.38437,-0.16706 0.59112,-0.16016 0.20674,0.007 0.41161,0.0857 0.56458,0.22493 0.15297,0.13925 0.25142,0.33712 0.26923,0.54321"
-         id="path5882"
-         inkscape:path-effect="#path-effect5884-4-7"
-         inkscape:original-d="m 197.71875,240.4375 c 0.65604,-0.56057 1.41045,-1.32862 1.90625,-0.8125 l 3.8125,3.96875 13.25,-12.65625 c 0.6875,-0.6875 1.90625,0.21875 1.90625,0.21875"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="csccc" />
-    </g>
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       xml:space="preserve"><tspan
+         y="249.92654"
+         x="474.63284"
+         id="tspan3030"
+         sodipodi:role="line">Add contacts:</tspan></text>
   </g>
   <g
-     transform="translate(-114.39464,-1054.0144)"
-     id="g14596">
-    <rect
-       ry="7.0000005"
-       rx="7.0000005"
-       style="opacity:0.63999999;color:#000000;fill:url(#linearGradient14005-2);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect14386"
-       width="39"
-       height="39"
-       x="589"
-       y="1210"
-       inkscape:export-filename="/home/jimmac/SparkleShare/gnome-mockups/boxes/interactive/img/checkbox-on.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+     id="g3082"
+     transform="translate(0.20491803,14.344262)">
     <g
-       style="display:inline;enable-background:new"
-       id="g14388"
-       transform="matrix(1.9969286,0,0,1.9969286,-337.05491,877.00482)"
-       inkscape:export-filename="/home/jimmac/SparkleShare/gnome-mockups/boxes/interactive/img/checkbox-on.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       id="g14596"
+       transform="translate(-114.39464,-1054.0144)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/jimmac/SparkleShare/gnome-mockups/boxes/interactive/img/checkbox-on.png"
+         y="1210"
+         x="589"
+         height="39"
+         width="39"
+         id="rect14386"
+         style="opacity:0.63999999;color:#000000;fill:url(#linearGradient3103);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         rx="7.0000005"
+         ry="7.0000005" />
       <g
-         style="enable-background:new"
-         id="g14390"
-         transform="translate(877.50354,-102.83507)">
-        <rect
-           ry="0.80653393"
-           rx="0.80653393"
-           y="-284.86218"
-           x="-409.50739"
-           height="11.023263"
-           width="11.042357"
-           id="rect14392"
-           style="color:#000000;fill:url(#linearGradient14404);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient14406);stroke-width:0.50076902;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/jimmac/SparkleShare/gnome-mockups/boxes/interactive/img/checkbox-on.png"
+         transform="matrix(1.9969286,0,0,1.9969286,-337.05491,877.00482)"
+         id="g14388"
+         style="display:inline;enable-background:new">
+        <g
+           transform="translate(877.50354,-102.83507)"
+           id="g14390"
+           style="enable-background:new">
+          <rect
+             transform="scale(1,-1)"
+             style="color:#000000;fill:url(#linearGradient3105);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient3107);stroke-width:0.50076902;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             id="rect14392"
+             width="11.042357"
+             height="11.023263"
+             x="-409.50739"
+             y="-284.86218"
+             rx="0.80653393"
+             ry="0.80653393" />
+        </g>
       </g>
     </g>
-  </g>
-  <text
-     xml:space="preserve"
-     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-     x="524.24432"
-     y="179.83258"
-     id="text3138"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan3140"
+    <text
+       sodipodi:linespacing="125%"
+       id="text3138"
+       y="179.83258"
        x="524.24432"
-       y="179.83258">Send via email</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-     x="524.24438"
-     y="130.27715"
-     id="text3142"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan3144"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       xml:space="preserve"><tspan
+         y="179.83258"
+         x="524.24432"
+         id="tspan3140"
+         sodipodi:role="line">Send via email</tspan></text>
+  </g>
+  <g
+     id="g3069"
+     transform="translate(-0.61475411,14.754099)">
+    <g
+       id="g14586"
+       transform="translate(-53.659188,-1104.3567)">
+      <rect
+         ry="7.0000005"
+         rx="7.0000005"
+         style="opacity:0.63999999;color:#000000;fill:url(#linearGradient3109);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect85718-2-9"
+         width="39"
+         height="39"
+         x="529"
+         y="1210"
+         inkscape:export-filename="/home/jimmac/SparkleShare/gnome-mockups/boxes/interactive/img/checkbox-on.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         style="display:inline;enable-background:new"
+         id="g15291-9"
+         transform="matrix(1.9969286,0,0,1.9969286,-397.05491,877.00482)"
+         inkscape:export-filename="/home/jimmac/SparkleShare/gnome-mockups/boxes/interactive/img/checkbox-on.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <g
+           style="enable-background:new"
+           id="g16853-4"
+           transform="translate(877.50354,-102.83507)">
+          <rect
+             ry="0.80653393"
+             rx="0.80653393"
+             y="-284.86218"
+             x="-409.50739"
+             height="11.023263"
+             width="11.042357"
+             id="rect6506-6"
+             style="color:#000000;fill:url(#linearGradient3111);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient3113);stroke-width:0.50076902;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             transform="scale(1,-1)" />
+        </g>
+      </g>
+      <g
+         style="display:inline;enable-background:new"
+         id="g5886"
+         transform="translate(343.99999,987.99997)"
+         inkscape:export-filename="/home/jimmac/SparkleShare/gnome-mockups/boxes/interactive/img/checkbox-on.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           inkscape:connector-curvature="0"
+           inkscape:original-d="m 198.5,240 5.25,5.25 13.875,-13.875"
+           inkscape:path-effect="#path-effect5837-4-6"
+           id="path5835"
+           d="m 198.5,240 5.25,5.25 13.875,-13.875"
+           style="fill:none;stroke:url(#linearGradient3115);stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           style="fill:none;stroke:#4787c8;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 198.5,240 5.25,5.25 13.875,-13.875"
+           id="path5880"
+           inkscape:path-effect="#path-effect5837-4-6"
+           inkscape:original-d="m 198.5,240 5.25,5.25 13.875,-13.875"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="csccc"
+           inkscape:connector-curvature="0"
+           inkscape:original-d="m 197.71875,240.4375 c 0.65604,-0.56057 1.41045,-1.32862 1.90625,-0.8125 l 3.8125,3.96875 13.25,-12.65625 c 0.6875,-0.6875 1.90625,0.21875 1.90625,0.21875"
+           inkscape:path-effect="#path-effect5884-4-7"
+           id="path5882"
+           d="m 197.71875,240.4375 c -0.113,-0.1009 -0.19813,-0.23267 -0.24374,-0.37713 -0.0456,-0.14446 -0.0515,-0.30115 -0.0175,-0.44876 0.034,-0.14762 0.10786,-0.28567 0.21068,-0.39693 0.10281,-0.11125 0.23413,-0.19547 0.37723,-0.24518 0.1431,-0.0497 0.29748,-0.065 0.44812,-0.0491 0.15065,0.0159 0.29731,0.0628 0.43264,0.13085 0.27066,0.13614 0.48894,0.35524 0.69883,0.57373 l 3.8125,3.96875 13.25,-12.65625 c 0.14959,-0.14288 0.30236,-0.28546 0.48132,-0.38923 0.17895,-0.10377 0.38437,-0.16706 0.59112,-0.16016 0.20674,0.007 0.41161,0.0857 0.56458,0.22493 0.15297,0.13925 0.25142,0.33712 0.26923,0.54321"
+           style="fill:none;stroke:#7ea7d3;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3142"
+       y="130.27715"
        x="524.24438"
-       y="130.27715">Send as link</tspan></text>
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       xml:space="preserve"><tspan
+         y="130.27715"
+         x="524.24438"
+         id="tspan3144"
+         sodipodi:role="line">Send as link</tspan></text>
+  </g>
   <rect
      style="fill:#ededed;fill-opacity:1;stroke:none"
      id="rect3146"
@@ -494,4 +574,15 @@
      height="35"
      x="650"
      y="285" />
+  <text
+     xml:space="preserve"
+     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+     x="619.67224"
+     y="105.12293"
+     id="text3065"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3067"
+       x="619.67224"
+       y="105.12293">Sharing</tspan></text>
 </svg>
