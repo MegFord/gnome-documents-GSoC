@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -361,8 +361,8 @@
      id="namedview4"
      showgrid="true"
      inkscape:zoom="3.450681"
-     inkscape:cx="768.75365"
-     inkscape:cy="548.97023"
+     inkscape:cx="592.20002"
+     inkscape:cy="664.88938"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1"
@@ -503,7 +503,7 @@
          y="179.83258"
          x="524.24432"
          id="tspan3140"
-         sodipodi:role="line">Send via email</tspan></text>
+         sodipodi:role="line">Send as attachment</tspan></text>
   </g>
   <g
      id="g3069"
