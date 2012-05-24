@@ -362,7 +362,7 @@
      showgrid="true"
      inkscape:zoom="3.450681"
      inkscape:cx="592.20002"
-     inkscape:cy="664.88938"
+     inkscape:cy="595.33789"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1"
@@ -433,21 +433,21 @@
          sodipodi:type="inkscape:offset" />
       <path
          inkscape:connector-curvature="0"
-         inkscape:original-d="m 531.5,387.99999 0,21"
+         inkscape:original-d="m 486.00001,387.99999 0,21"
          inkscape:path-effect="#path-effect57728-9-9"
          id="path57726"
-         d="m 531.5,387.99999 0,21"
+         d="m 486.00001,387.99999 0,21"
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <text
        sodipodi:linespacing="125%"
        id="text3028"
-       y="249.92654"
-       x="474.63284"
+       y="254.8531"
+       x="474.34305"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        xml:space="preserve"><tspan
-         y="249.92654"
-         x="474.63284"
+         y="254.8531"
+         x="474.34305"
          id="tspan3030"
          sodipodi:role="line">Add contacts:</tspan></text>
   </g>
