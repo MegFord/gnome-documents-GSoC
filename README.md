@@ -1,4 +1,4 @@
 gnome-documents-GSoC
 ====================
 
-mockups &amp; experimental branch for GSoC
+mockups &amp; experiments for GSoC
