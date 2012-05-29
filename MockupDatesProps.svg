@@ -15,7 +15,7 @@
    inkscape:version="0.48.1 r9760"
    width="1280"
    height="800"
-   sodipodi:docname="MockupDateProperties.svg">
+   sodipodi:docname="MockupDatesProps.svg">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -489,7 +489,7 @@
        x2="288.75003"
        y1="572.08411"
        x1="290"
-       gradientTransform="matrix(1.441361,0,0,1.1136727,-19.364788,-532.29371)"
+       gradientTransform="matrix(1.4475285,0,0,1.1305075,-21.276508,-541.78157)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient4582"
        xlink:href="#linearGradient55494-2"
@@ -627,8 +627,8 @@
      inkscape:snap-nodes="false"
      inkscape:snap-global="false"
      inkscape:zoom="4.8799999"
-     inkscape:cx="440.30558"
-     inkscape:cy="656.10531"
+     inkscape:cx="405.73428"
+     inkscape:cy="672.49875"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1"
@@ -735,9 +735,9 @@
      x="407.78693"
      y="145.90164" />
   <rect
-     style="fill:#e6e6e6;fill-opacity:1;stroke:none"
+     style="fill:#ededed;fill-opacity:1;stroke:none"
      id="rect4769"
-     width="96.721313"
+     width="108.81148"
      height="29.508198"
      x="505.32788"
      y="88.934425" />
@@ -854,7 +854,7 @@
          sodipodi:role="line">Monday, 21 May  2012 </tspan></text>
   </g>
   <rect
-     style="fill:#e6e6e6;fill-opacity:1;stroke:none"
+     style="fill:#ededed;fill-opacity:1;stroke:none"
      id="rect4769-3"
      width="124.18034"
      height="33.196724"
@@ -864,14 +864,14 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccc"
      id="path55488"
-     d="m 426.06815,122.09382 -3.65583,-23.422813 c -0.63144,-2.19685 -2.57759,-2.937003 -4.77452,-2.937003 l -75.49126,0 c -2.1969,0 -4.14305,0.740153 -4.77452,2.937003 l -4.42376,23.319153"
-     style="fill:url(#linearGradient4582);fill-opacity:1;stroke:#a8aaa8;stroke-width:1.17416537000000010;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;enable-background:new" />
+     d="m 426.06247,122.49797 -3.67148,-23.776881 c -0.63414,-2.230059 -2.58861,-2.9814 -4.79495,-2.9814 l -75.8143,0 c -2.20629,0 -4.16077,0.751341 -4.79494,2.9814 l -4.4427,23.671651"
+     style="fill:url(#linearGradient4582);fill-opacity:1;stroke:#a8aaa8;stroke-width:1.18553507;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;enable-background:new" />
   <path
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccc"
      id="path55488-0"
      d="m 609.66374,121.87794 -3.76761,-23.585409 c -0.65074,-2.2121 -2.65639,-2.95739 -4.92047,-2.95739 l -77.79924,0 c -2.26406,0 -4.26971,0.74529 -4.92048,2.95739 l -4.559,23.481019"
-     style="fill:url(#linearGradient3452);fill-opacity:1;stroke:#c2c5bf;stroke-width:1.19610858;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;enable-background:new" />
+     style="fill:url(#linearGradient3452);fill-opacity:1;stroke:#a8aaa8;stroke-width:1.19610857999999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;enable-background:new" />
   <path
      style="fill:#a7aba7;fill-opacity:1;stroke:#a8aaa8;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 333.19673,122.74589 89.13935,-0.20492"
@@ -880,7 +880,7 @@
      sodipodi:nodetypes="cc" />
   <g
      id="g3429"
-     transform="matrix(1.0088088,0,0,1.0046643,-4.5398441,-0.39837566)">
+     transform="matrix(1.0088088,0,0,0.9854547,-4.5398441,1.9716711)">
     <path
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc"
