@@ -2,5 +2,5 @@ gnome-documents-GSoC
 ====================
 
 mockups &amp; experiments for GSoC
-
-Will git push anything?
+Documents Properties menu screenshots
+https://imgur.com/a/n2Nhn#Gw2wp
