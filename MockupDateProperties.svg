@@ -659,8 +659,8 @@
      inkscape:snap-nodes="false"
      inkscape:snap-global="false"
      inkscape:zoom="4.8799999"
-     inkscape:cx="489.82914"
-     inkscape:cy="645.23882"
+     inkscape:cx="459.72496"
+     inkscape:cy="592.35987"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1"
@@ -837,32 +837,6 @@
   <text
      xml:space="preserve"
      style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-     x="369.57999"
-     y="220"
-     id="text3041"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan3043"
-       x="369.57999"
-       y="220">Author:</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-     x="368.75018"
-     y="266.94354"
-     id="text3061"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan3063"
-       x="368.75018"
-       y="266.94354" /><tspan
-       sodipodi:role="line"
-       id="tspan3065"
-       x="368.75018"
-       y="284.44354">Source:</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
      x="610"
      y="80"
      id="text3059"
@@ -909,25 +883,6 @@
          style="color:#000000;fill:url(#linearGradient3206);fill-opacity:1;fill-rule:nonzero;stroke:#babdb6;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     </g>
   </g>
-  <g
-     id="g3188"
-     transform="translate(0.55741251,-2.8979787)">
-    <g
-       transform="matrix(2.6498176,0,0,1,-678.83398,-179.75492)"
-       id="g54983-6" />
-    <text
-       xml:space="preserve"
-       style="font-size:14.00622463px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       x="465.05765"
-       y="224.401"
-       id="text57710-9"
-       sodipodi:linespacing="125%"
-       transform="scale(1.0059418,0.99409329)"><tspan
-         sodipodi:role="line"
-         id="tspan57712-3"
-         x="465.05765"
-         y="224.401">Carl Sagan</tspan></text>
-  </g>
   <text
      xml:space="preserve"
      style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
@@ -939,39 +894,6 @@
        id="tspan3434"
        x="489.1788"
        y="340.38058" /></text>
-  <text
-     xml:space="preserve"
-     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-     x="468.37766"
-     y="284.37164"
-     id="text3208"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan3210"
-       x="468.37766"
-       y="284.37164">Google</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-     x="369.67215"
-     y="249.59015"
-     id="text3285"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan3287"
-       x="369.67215"
-       y="249.59015">Type: </tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-     x="468.44266"
-     y="250.40982"
-     id="text3289"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan3291"
-       x="468.44266"
-       y="250.40982">OpenDocument Text (application/vnd.oasis.opendocument.text)</tspan></text>
   <g
      id="g3175"
      transform="translate(-1.6196506,-159.27208)">
@@ -1020,6 +942,12 @@
      id="path55488-0"
      d="m 609.66374,121.87794 -3.76761,-23.585409 c -0.65074,-2.2121 -2.65639,-2.95739 -4.92047,-2.95739 l -77.79924,0 c -2.26406,0 -4.26971,0.74529 -4.92048,2.95739 l -4.559,23.481019"
      style="fill:url(#linearGradient3452);fill-opacity:1;stroke:#c2c5bf;stroke-width:1.19610858;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;enable-background:new" />
+  <path
+     style="fill:#c2c5bf;fill-opacity:1;stroke:#c2c5bf;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 333.19673,122.74589 89.13935,-0.20492"
+     id="path4241"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
   <g
      id="g3429"
      transform="matrix(1.0088088,0,0,1.0046643,-4.5398441,-0.39837566)">
@@ -1036,12 +964,6 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
   </g>
-  <path
-     style="fill:#c2c5bf;fill-opacity:1;stroke:#c2c5bf;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 333.19673,122.54097 89.13935,-0.20492"
-     id="path4241"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cc" />
   <text
      xml:space="preserve"
      style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
@@ -1075,4 +997,15 @@
        y="115.01988"
        x="448.63687"
        sodipodi:role="line">Date</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+     x="369.2623"
+     y="220.49179"
+     id="text4264"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4266"
+       x="369.2623"
+       y="220.49179">View documents in five day range</tspan></text>
 </svg>
