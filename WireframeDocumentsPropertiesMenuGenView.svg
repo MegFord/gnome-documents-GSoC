@@ -15,7 +15,7 @@
    id="svg8078"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="MockupsDocumentsPropertiesMenu.svg">
+   sodipodi:docname="WireframeDocumentsPropertiesMenuGenView.svg">
   <defs
      id="defs8080">
     <linearGradient
@@ -111,8 +111,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5494505"
-     inkscape:cx="538.25845"
-     inkscape:cy="199.9009"
+     inkscape:cx="281.01517"
+     inkscape:cy="354.79452"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="true"
@@ -134,7 +134,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -158,11 +158,11 @@
          sodipodi:linespacing="125%"
          id="text35487"
          y="82.220009"
-         x="300.02292"
+         x="319.38461"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
          xml:space="preserve"><tspan
            y="82.220009"
-           x="300.02292"
+           x="319.38461"
            id="tspan35489"
            sodipodi:role="line">Properties</tspan></text>
       <g
