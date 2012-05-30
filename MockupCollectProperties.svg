@@ -15,7 +15,7 @@
    inkscape:version="0.48.1 r9760"
    width="1280"
    height="800"
-   sodipodi:docname="MockupDateProperties.svg">
+   sodipodi:docname="MockupCollectProperties.svg">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -961,4 +961,23 @@
        id="tspan4266"
        x="369.2623"
        y="220.49179">View documents in five day range</tspan></text>
+  <g
+     transform="matrix(1.0088088,0,0,0.94063231,90.337207,6.2722714)"
+     id="g3124">
+    <g
+       id="g3126">
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc"
+         id="path3128"
+         d="m 514.78443,122.78441 -4.23987,-27.762523 c -0.61917,-2.28304 -2.52739,-3.05222 -4.68153,-3.05222 l -74.02111,0 c -2.15415,0 -4.06237,0.76918 -4.68153,3.05222 l -4.23989,27.762523"
+         style="fill:url(#linearGradient4291);fill-opacity:1;stroke:url(#linearGradient4293);stroke-width:1.18526149;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;enable-background:new" />
+      <path
+         style="color:#bebebe;fill:#8dc0f3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 428.13202,94.456623 81.52923,0 c -0.26499,-0.99402 -1.85494,-2.1123 -4.06321,-2.05017 l -73.93279,0 c -2.11993,0.0621 -3.26824,1.11827 -3.53323,2.05017 z"
+         id="path3130"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+  </g>
 </svg>
