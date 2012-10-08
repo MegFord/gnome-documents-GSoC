@@ -1,0 +1,13 @@
+1. use GOA Account.get_identity to check if current user is owner or can edit document. If so, then set controls to sensitive, otherwise inform user that they cannot change permissions. 
+
+2. Use regex to check if input is email address or not.
+
+3. don't show permissions for public except by setting radiobutton to reflect current permission and checkbox to active if the public can edit.//done
+
+4. set checkbox more to the right.
+
+5. if doc is public then need to change permission (diff function)
+
+6. if doc is public and user wants to change permission to private, how is that done?
+
+7. add gtk spinner
